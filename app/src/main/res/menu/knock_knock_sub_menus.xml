@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/knock_knock_faces1"
+        android:icon="@drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="dummy1"
+        android:tooltipText="@string/knock_knock_submenu_faces" />
+    <item
+        android:id="@+id/knock_knock_faces2"
+        android:icon="@drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="dummy2"
+        android:tooltipText="@string/knock_knock_submenu_faces" />
+    <item
+        android:id="@+id/knock_knock_faces3"
+        android:icon="@drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="dummy3"
+        android:tooltipText="@string/knock_knock_submenu_faces" />
+    <item
+        android:id="@+id/knock_knock_faces"
+        android:icon="@drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="@string/knock_knock_submenu_faces"
+        android:tooltipText="@string/knock_knock_submenu_faces" />
+</menu>

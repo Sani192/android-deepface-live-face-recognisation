@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Trident</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Trident</string>
+    <string name="nav_header_subtitle">AI Powered</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_knock_knock">Knock Knock</string>
+    <string name="menu_slideshow">Yet to come</string>
+
+    <string name="knock_knock_start">Start</string>
+    <string name="knock_knock_stop">Stop</string>
+    <string name="knock_knock_submenu_faces">Faces</string>
+    <string name="knock_knock_menu_move_images">Move Images</string>
+    <string name="knock_knock_no_images">No images to display</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
